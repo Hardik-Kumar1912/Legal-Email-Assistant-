@@ -28,6 +28,6 @@ This project is a prototype for a legal assistant tool designed to analyze incom
 
 ## Usage
 
-    ```bash
-   python email_assistant.py
+    python email_assistant.py
+    
     
